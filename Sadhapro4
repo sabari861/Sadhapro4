@@ -1,0 +1,64 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Learning - DIV and SPAN Example</title>
+
+    <style>
+        .container {
+            border: 2px solid green;
+            background-color: #f1fff1;
+            padding: 15px;
+            margin: 20px;
+        }
+
+        .highlight {
+            color: blue;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h2>Online Learning</h2>
+
+        <p>
+            Online learning allows students to study using computers,
+            tablets, and mobile devices from anywhere.
+        </p>
+
+        <p>
+            Students can attend
+            <span class="highlight">virtual classes</span>,
+            watch educational videos, and complete assignments online.
+        </p>
+
+        <p>
+            Online education provides
+            <span class="highlight">flexibility and convenience</span>
+            for learners.
+        </p>
+    </div>
+
+    <div class="container">
+        <h2>Benefits of Online Learning</h2>
+
+        <p>
+            Students can learn at their own pace and access
+            <span class="highlight">digital study materials</span>
+            whenever they need them.
+        </p>
+
+        <p>
+            It also helps students develop
+            <span class="highlight">technical and communication skills</span>.
+        </p>
+    </div>
+
+</body>
+</html>
+```
